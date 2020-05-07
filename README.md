@@ -1,0 +1,1 @@
+# sonarcloud_example_go-sqscanner-travis
